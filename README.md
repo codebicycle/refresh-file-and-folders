@@ -1,8 +1,17 @@
 # Refresh File and Folders
 
-Sublime Text plugin to reload external changes made to current file and folder tree structure.
+Reload current file and folder tree structure, package for Sublime Text.
 
-Use <kbd>F5</kbd> to reload.
+Use <kbd>F5</kbd> to reload external changes.
+
+Useful when working with files on a remote location, collaborative editing, pair programming.
+
+
+## Install
+
+Using [Package Control](https://sublime.wbond.net/installation)
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> → Package Control: Install Package → Refresh File and Folders
 
 ### Manual Install
 
